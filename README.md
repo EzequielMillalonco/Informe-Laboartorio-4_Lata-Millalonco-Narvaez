@@ -4,7 +4,7 @@
  
         General: 
         
-        Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de superposición, mediante análisis de circuitos en serie - paralelo determinando el método más factible de resolución.
+Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de superposición, mediante análisis de circuitos en serie - paralelo determinando el método más factible de resolución.
 
 
 
