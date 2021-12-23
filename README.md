@@ -168,7 +168,9 @@ Aplicamos la fórmula de divisor de corriente, para encontrar Ix.
 Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
 
 
-4.4.5 
+	4.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los 
+	resultados obtenidos prácticamente con los obtenidos analíticamente. 
+
   
   
   
@@ -180,6 +182,7 @@ Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
 	4.5.3 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
 
 	4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+	
   
 Tabla 4.1 . Medición de voltaje aplicando superposición.
   
@@ -189,6 +192,7 @@ Tabla 4.2. Medición de corriente aplicando superposición.
   
   ![image](https://user-images.githubusercontent.com/93396250/147177883-6add3681-fee0-4f06-9aa3-b7298893a1d9.png)
 
+	4.5.5 Realice sus conclusiones.
 	
 **CALCULO DE ERROR**
 	
