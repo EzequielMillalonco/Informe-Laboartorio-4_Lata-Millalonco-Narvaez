@@ -3,16 +3,18 @@
 ## 1. OBJETIVOS
  
         General: 
+        
+        Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de superposición, mediante análisis de circuitos en serie - paralelo determinando el método más factible de resolución.
 
 
 
         Específicos: 
  
-1. 
+1. Reconocer circuito abierto o cerrado, a reemplazar en fuente de voltaje y/o corriente, analizando el valor de su resistencia interna.
         
-2. 
+2. Deducir e identificar la manera de convertir circuitos en serie - paralelo complejos en sencillos.
         
-3. 
+3. Comprobar el teorema de superposición y la funcionabilidad de las fórmulas para divisor de corriente y voltaje, mediante la comparación de resultados teóricos y los encontrados en el laboratorio virtual THINKERCAD.
 
 ## 2. MARCO TEÓRICO
 
@@ -33,10 +35,11 @@
 
 ## 6. CONCLUSIONES
 
-   1. 
-   2. 
+   1. Se logró comprobar, mediante resultados prácticos en el laboratorio virtual, que en el teorema de superposición, una fuente de voltaje debe ser reemplazada por un circuito cerrado (cortocircuito) y una fuente de corriente debe sustituirse por un circuito abierto (resistencia tiende a infinito).
+   
+   2. En esta práctica, se pudo indentificar que el reducir o convertir un circuito complejo en uno sencillo, calculando resistencia equivalentes, tanto en serrie y paralelo, facilita la resolución del mismo, ya sea para encontrar valores de corriente y/o voltaje, en un punto o resistencia específica.
         
-   3. 
+   3. A través del teorema de superposición antes comprobado, se comprobo la utilidad de las fórmulas para divisor de corriente y voltaje, mismas que fueron usadas para determinar valores teóricos, posteriormente comparados con los valores medidos en el laboratorio virtual y resolviendo así la veracidad de las fórmulas antes mencionadas.
         
 
 
