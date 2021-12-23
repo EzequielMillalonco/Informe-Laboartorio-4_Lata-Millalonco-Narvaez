@@ -116,10 +116,8 @@ Para este laboratorio necesitaremos los siguientes materiales:
 	4.4.2  Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, 
 	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. 
 	 
-xd
-	 
-	 
-  
+![4 5 1](https://user-images.githubusercontent.com/93396250/147181159-eea6e8d0-8418-4238-bef0-0d93640c7360.JPG)
+
 	4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, 
 	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
   
