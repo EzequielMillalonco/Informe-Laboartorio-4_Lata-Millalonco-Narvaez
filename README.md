@@ -21,6 +21,44 @@ Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de s
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+
+![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
+
+
+La resistencia de 470 (Ω) no se toma en cuenta para el cálculo del voltaje VA, ya que va a tener el mismo voltaje que la resistencia de 820 (Ω), esto debido a que se encuentran en paralelo y el voltaje VA requerido es el que pasa por la resistencia de 820 (Ω).
+
+Primero procedemos a determinar que la fuente de voltaje de 20 (V), va a ser reemplazad por un cortocircuito, es decir un circuito cerrado. Posterior a eso se debe encontrar, la resistencia equivalente entre las resistencias de 1 (kΩ) y 2.2 (kΩ). 
+
+R12= (1000*2200)/3200 = 687.5 (Ω)
+
+![image](https://user-images.githubusercontent.com/93826527/147174035-891e921e-aece-4a71-badc-0ba352c4a2a2.png)
+
+Posterior a eso vamos a aplicar la fórmula de divisor de voltaje entre la resistencia R12 y R3, no se debe tomar en cuenta R4, por lo antes mencionado.
+
+![Screenshot 2021-12-22 203308](https://user-images.githubusercontent.com/93826527/147174146-c37dcfa7-6d0d-4083-87b9-70bd56fc4a1b.png)
+
+Va = V2 * (R3/R3+R12)
+
+Va= -6.52 (signo negativo por la polaridad del voltaje)
+
+Para calcular la corriente Ix, se repite lo mismo que en el anterior caso, es decir se reemplaza la fuente de 20 (V), por un circuito cerrado, posterior a eso obtengo resistencias equivalentes hasta obtener RTotal.
+
+R12 = (1000*2200)/3200 = 687.5 (Ω)
+
+R123 = 687.5 + 820 = 1507.5 (Ω)
+
+RT = (1507.5*470)/(1507.5+470) = 358.29 (Ω)
+
+Procedemos a encontrar la corriente total IT.
+
+IT = V2/RT = 12/358.29 = 33.49 (mV)
+
+Aplicamos la fórmula de divisor de corriente, para encontrar Ix.
+
+Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
+
+
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
