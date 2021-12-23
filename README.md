@@ -18,7 +18,81 @@ Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de s
 
 ## 2. MARCO TEÓRICO
 
+![Lab 4](https://user-images.githubusercontent.com/93396250/147175998-48f9b56f-86c1-4c5e-9bae-ce6da09bbd62.jpg)
 
+**EJEMPLO:**
+
+En el circuito mostrado en la siguiente figura, encontrar la corriente que atraviesa cada resistencia mediante el teorema de superposición.
+
+![superposición-1](https://user-images.githubusercontent.com/93396250/147176040-b74ebfda-19ce-4df2-a716-2ba69864121c.jpg)
+
+**Solución**
+**Contribución de la fuente de voltaje**
+Para comenzar se elimina la fuente de corriente, con lo cual el circuito queda de esta forma:
+
+![superposicion-2](https://user-images.githubusercontent.com/93396250/147176056-973d4389-a1d7-491e-aad9-ff0655f2d8d6.jpg)
+
+La resistencia equivalente se encuentra sumando el valor de cada resistencia, ya que todas están en serie:
+
+ <p align=center> 7500 +600 +400 + 1500 Ω = 10.000 Ω
+
+Aplicando la ley de Ohm V = I.R y despejando la corriente:
+
+ <p align=center> I = V/R = 7 / 10.000 A = 0.0007 A = 0.7 mA
+
+Esta corriente es la misma para todas las resistencias.
+
+Contribución de la fuente de corriente
+Enseguida se elimina la fuente de voltaje, para trabajar únicamente con la fuente de corriente. El circuito resultante se muestra a continuación:
+
+![superposicion-3](https://user-images.githubusercontent.com/93396250/147176086-b96643c1-1f5d-4ec1-8343-1973e38ae7ab.jpg)
+
+Las resistencias en la malla de la derecha están en serie y se pueden sustituir por una sola:
+
+ <p align=center> 600 +400 + 1500 Ω =2500 Ω
+
+El circuito resultante queda así:
+
+![superoposicion-4](https://user-images.githubusercontent.com/93396250/147176102-751d8d68-7fcf-4629-af41-63d133620037.jpg)
+
+
+La corriente de 2 mA = 0.002 A se divide entre las dos resistencias de la figura, por lo tanto es válida la ecuación del divisor de corriente:
+
+ <p align=center> Ix = (Req/Rx)IT
+        
+Donde Ix es la corriente en la resistencia Rx, Req simboliza la resistencia equivalente e IT es la corriente total. Es preciso encontrar la resistencia equivalente entre ambas, sabiendo que:        
+        
+ <p align=center> 1/Req = (1/ R1) + (1/ R2)
+
+Por lo tanto:
+
+ <p align=center> 1/Req = (1/7500) + (1/2500) = 1 / 1875 → Req = 1875 Ω
+
+Para este otro circuito, la corriente que pasa a través de la resistencia de 7500 Ω se encuentra sustituyendo valores en la ecuación del divisor de corriente:
+
+ <p align=center> I7500 Ω = (1875/7500). 0.002 A = 0.0005 A = 0.5 mA
+
+Mientras que la que pasa a través de la resistencia de 2500 Ω es:
+
+ <p align=center> I2500 Ω = 2 mA – 0.5 mA = 1.5 mA
+
+Aplicación del teorema de superposición
+Ahora se aplica el teorema de superposición para cada resistencia, comenzando por la de 400 Ω:
+
+ <p align=center> I400 Ω = 1.5 mA – 0.7 mA = 0.8 mA        
+        
+**Importante:** para esta resistencia, las corrientes se restan, pues circulan en sentido contrario, según se desprende de la observación cuidadosa de las figuras, en las cuales los sentidos de las corrientes tienen colores diferentes.
+
+Esta misma corriente atraviesa por igual a las resistencias de 1500 Ω y 600 Ω, puesto que todas están en serie.       
+Seguidamente se aplica el teorema para encontrar la corriente a través de la resistencia de 7500 Ω:
+
+ <p align=center> I7500 Ω = 0.7 mA + 0.5 mA = 1.2 mA
+         
+**Importante:** en el caso de la resistencia de 7500 Ω obsérvese que las corrientes se suman, porque en ambos circuitos circulan en el mismo sentido al pasar por esta resistencia. De nuevo es preciso observar atentamente los sentidos de las corrientes.
+         
+         
+         
+         
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
