@@ -197,7 +197,8 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 
  <p align=center> Tabla 4.2. Medición de corriente aplicando superposición.
   
-![image](https://user-images.githubusercontent.com/93396250/147180708-1fadb239-5045-4623-988e-77ae1e4f6f8d.png)
+![image](https://user-images.githubusercontent.com/93396250/147183561-5d1899ee-b12c-4d61-95eb-301567d87710.png)
+
 
 
 	
