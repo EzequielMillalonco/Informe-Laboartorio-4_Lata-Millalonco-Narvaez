@@ -204,7 +204,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 	
 **CALCULO DE ERROR**
 	 
-	![image](https://user-images.githubusercontent.com/93396250/147183469-f9c8fa25-40bc-40ee-b7c3-30cee12a86e5.png)
+![image](https://user-images.githubusercontent.com/93396250/147183469-f9c8fa25-40bc-40ee-b7c3-30cee12a86e5.png)
 
 ## 5. VIDEO
 
