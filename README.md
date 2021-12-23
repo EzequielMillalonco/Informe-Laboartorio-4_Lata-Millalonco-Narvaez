@@ -4,8 +4,7 @@
  
         General: 
         
-Analizar y comprobar de forma experiemntal - práctica y teorica el teorema de superposición, mediante análisis de circuitos en serie - paralelo determinando el método más factible de resolución.
-
+Analizar y comprobar de forma experiemental, práctica y teorica el teorema de superposición, mediante análisis de circuitos en serie - paralelo determinando el método más factible de resolución.
 
 
         Específicos: 
@@ -211,7 +210,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 4¨ en donde se explica 
+        Link del video ¨Informe de laboratorio 4¨ en donde se realiza de forma experimental el circuito y se lo resuelve por el Teorema de superposición.
  
  https://youtu.be/iyJIL712wRU
  
