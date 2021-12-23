@@ -91,14 +91,25 @@ Seguidamente se aplica el teorema para encontrar la corriente a través de la re
 **Importante:** en el caso de la resistencia de 7500 Ω obsérvese que las corrientes se suman, porque en ambos circuitos circulan en el mismo sentido al pasar por esta resistencia. De nuevo es preciso observar atentamente los sentidos de las corrientes.
          
          
-         
-         
+Una vez entendido esto se procede con el laboratorio #4, en el cual se comprobara experimentalmente el Teorema de Superposición. Para este laboratorio necesitaremos los siguientes materiales:
+  
+  ![image](https://user-images.githubusercontent.com/93396250/147176912-5ed8bcdb-9f07-4c2c-bedc-7d52f54c840d.png)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+4.5.1 Arme el circuito que se muestra en la figura 4.1  
+
+4.5.2  
+  
+  
+4.5.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente 
+  
+  
+  
+  
+4.5.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
 ![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
-
 
 La resistencia de 470 (Ω) no se toma en cuenta para el cálculo del voltaje VA, ya que va a tener el mismo voltaje que la resistencia de 820 (Ω), esto debido a que se encuentran en paralelo y el voltaje VA requerido es el que pasa por la resistencia de 820 (Ω).
 
@@ -145,6 +156,11 @@ Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
  
 [![Presentación Informe 1](https://img.youtube.com/vi/iyJIL712wRU/0.jpg)](https://www.youtube.com/watch?v=iyJIL712wRU)
 
+  
+  
+  
+  
+ 
 ## 6. CONCLUSIONES
 
    1. Se logró comprobar, mediante resultados prácticos en el laboratorio virtual, que en el teorema de superposición, una fuente de voltaje debe ser reemplazada por un circuito cerrado (cortocircuito) y una fuente de corriente debe sustituirse por un circuito abierto (resistencia tiende a infinito).
@@ -154,7 +170,17 @@ Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
    3. A través del teorema de superposición antes comprobado, se comprobo la utilidad de las fórmulas para divisor de corriente y voltaje, mismas que fueron usadas para determinar valores teóricos, posteriormente comparados con los valores medidos en el laboratorio virtual y resolviendo así la veracidad de las fórmulas antes mencionadas.
         
 
-
+  
+  
+  
+  
+  
 ## 7. BIBLIOGRAFÍA
 
 Alulema Darwin. Guías Segundo Parcial https://classroom.google.com/w/NDEyOTg4NDk2MDQx/t/all
+  
+MiElectrónicaFácil. (2019, diciembre 8). Teorema de Superposición. MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-superposicion/
+  
+Superposición. (s/f). Khan Academy. Recuperado el 23 de diciembre de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
+Teorema de superposición: explicación, aplicaciones, ejercicios resueltos. (2020, enero 18). Lifeder. https://www.lifeder.com/teorema-de-superposicion/
