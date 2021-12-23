@@ -181,14 +181,18 @@ Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
 
 	4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
   
-Tabla 4.1 
+Tabla 4.1 . Medición de voltaje aplicando superposición.
   
   ![image](https://user-images.githubusercontent.com/93396250/147177850-2f85174b-a661-4271-86e8-34a176947108.png)
 
-Tabla 4.2
+Tabla 4.2. Medición de corriente aplicando superposición.
   
   ![image](https://user-images.githubusercontent.com/93396250/147177883-6add3681-fee0-4f06-9aa3-b7298893a1d9.png)
 
+	
+**CALCULO DE ERROR**
+	
+	
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 4¨ en donde se explica 
