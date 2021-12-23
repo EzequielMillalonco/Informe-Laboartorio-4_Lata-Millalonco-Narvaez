@@ -120,7 +120,7 @@ Para este laboratorio necesitaremos los siguientes materiales:
 	4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, 
 	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
   
-Se reemplaza la funete de voltaje de 12 V por un cable (cable morado) para causar un cortocircuito, entonces se mide el voltaje A y la intensidad Ix 
+Se reemplaza la funete de voltaje de 12 V por un cable (cable amarillo) para causar un cortocircuito, entonces se mide el voltaje A y la intensidad Ix 
   
 ![Thinker cad](https://user-images.githubusercontent.com/93396250/147178713-b3a96b66-400d-49ed-9399-542e9f59689f.JPG)
   
