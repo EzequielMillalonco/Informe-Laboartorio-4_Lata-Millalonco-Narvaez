@@ -91,23 +91,27 @@ Seguidamente se aplica el teorema para encontrar la corriente a través de la re
 **Importante:** en el caso de la resistencia de 7500 Ω obsérvese que las corrientes se suman, porque en ambos circuitos circulan en el mismo sentido al pasar por esta resistencia. De nuevo es preciso observar atentamente los sentidos de las corrientes.
          
          
-Una vez entendido esto se procede con el laboratorio #4, en el cual se comprobara experimentalmente el Teorema de Superposición. Para este laboratorio necesitaremos los siguientes materiales:
+Una vez entendido esto se procede con el laboratorio #4, en el cual se comprobara experimentalmente el Teorema de Superposición. 
+  
+## 3. MATERIAL Y EQUIPO REQUERIDO
+  
+Para este laboratorio necesitaremos los siguientes materiales:
   
   ![image](https://user-images.githubusercontent.com/93396250/147176912-5ed8bcdb-9f07-4c2c-bedc-7d52f54c840d.png)
 
-## 3. EXPLICACIÓN DEL PROCEDIMIENTO
+## 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
-4.5.1 Arme el circuito que se muestra en la figura 4.1  
+4.4.1 Arme el circuito que se muestra en la figura 4.1  
 
-4.5.2  
+4.4.2  
   
   
-4.5.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente 
+4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
   
   
   
   
-4.5.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+4.4.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
 ![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
 
@@ -144,9 +148,26 @@ Aplicamos la fórmula de divisor de corriente, para encontrar Ix.
 Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
 
 
+4.4.5 
+  
+  
+  
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+  
+4.5.3 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+
+4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+  
+Tabla 4.1 
+  
+  ![image](https://user-images.githubusercontent.com/93396250/147177850-2f85174b-a661-4271-86e8-34a176947108.png)
+
+Tabla 4.2
+  
+  ![image](https://user-images.githubusercontent.com/93396250/147177883-6add3681-fee0-4f06-9aa3-b7298893a1d9.png)
 
 ## 5. VIDEO
 
