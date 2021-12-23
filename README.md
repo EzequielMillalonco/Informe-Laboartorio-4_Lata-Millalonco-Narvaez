@@ -103,10 +103,22 @@ Para este laboratorio necesitaremos los siguientes materiales:
 
 	4.4.1 Arme el circuito que se muestra en la figura 4.1  
 
+<p align=center> Circuito de la figura 4.1
+	 
+![image](https://user-images.githubusercontent.com/93396250/147179111-e64e68c8-6eae-4e16-a50b-90980c6f3712.png)
+
+	 
+<p align=center> Circuito implementado en ThinerCAD: 
+	 
+![image](https://user-images.githubusercontent.com/93396250/147179041-0c3150cd-b16a-4e1e-820e-959ef19d810a.png)
+ 
+	 
 	4.4.2  Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, 
 	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. 
 	 
-
+xd
+	 
+	 
   
 	4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, 
 	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
