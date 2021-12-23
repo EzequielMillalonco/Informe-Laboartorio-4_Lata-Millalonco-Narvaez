@@ -200,11 +200,11 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 ![image](https://user-images.githubusercontent.com/93396250/147180708-1fadb239-5045-4623-988e-77ae1e4f6f8d.png)
 
 
-	4.5.5 Realice sus conclusiones.
 	
 **CALCULO DE ERROR**
-	
-	
+	 
+	![image](https://user-images.githubusercontent.com/93396250/147183469-f9c8fa25-40bc-40ee-b7c3-30cee12a86e5.png)
+
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 4¨ en donde se explica 
@@ -213,10 +213,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
  
 [![Presentación Informe 1](https://img.youtube.com/vi/iyJIL712wRU/0.jpg)](https://www.youtube.com/watch?v=iyJIL712wRU)
 
-  
-  
-  
-  
+
  
 ## 6. CONCLUSIONES
 
@@ -226,11 +223,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
         
    3. A través del teorema de superposición antes comprobado, se comprobo la utilidad de las fórmulas para divisor de corriente y voltaje, mismas que fueron usadas para determinar valores teóricos, posteriormente comparados con los valores medidos en el laboratorio virtual y resolviendo así la veracidad de las fórmulas antes mencionadas.
         
-
-  
-  
-  
-  
+ 
   
 ## 7. BIBLIOGRAFÍA
 
