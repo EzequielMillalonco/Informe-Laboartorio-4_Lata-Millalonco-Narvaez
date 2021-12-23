@@ -152,7 +152,33 @@ Va= -6.52 (signo negativo por la polaridad del voltaje)
 
 	4.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los 
 	resultados obtenidos prácticamente con los obtenidos analíticamente. 
+	
+*Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.*
+	
+	
+![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
 
+La resistencia de 470 (Ω) no se toma en cuenta para el cálculo del voltaje VA, ya que va a tener el mismo voltaje que la resistencia de 820 (Ω), esto debido a que se encuentran en paralelo y el voltaje VA requerido es el que pasa por la resistencia de 820 (Ω).
+
+Primero procedemos a determinar que la fuente de voltaje de 20 (V), va a ser reemplazad por un cortocircuito, es decir un circuito cerrado. Posterior a eso se debe encontrar, la resistencia equivalente entre las resistencias de 1 (kΩ) y 2.2 (kΩ). 
+
+ <p align=center> R12= (1000*2200)/3200 = 687.5 (Ω)
+
+![image](https://user-images.githubusercontent.com/93826527/147174035-891e921e-aece-4a71-badc-0ba352c4a2a2.png)
+
+Posterior a eso vamos a aplicar la fórmula de divisor de voltaje entre la resistencia R12 y R3, no se debe tomar en cuenta R4, por lo antes mencionado.
+
+![Screenshot 2021-12-22 203308](https://user-images.githubusercontent.com/93826527/147174146-c37dcfa7-6d0d-4083-87b9-70bd56fc4a1b.png)
+
+ <p align=center> Va = V2 * (R3/R3+R12)
+
+ <p align=center> Va= -6.52 (signo negativo por la polaridad del voltaje) 
+	
+	
+	
+	
+*Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.*	
+	
 Para calcular el voltaje cuando V2 = 0V primero se saca las resistencias equivalentes.
   
 ![image](https://user-images.githubusercontent.com/93834732/147179332-a22dbd70-44b2-40e4-b710-8182b29873da.png)
