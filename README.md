@@ -155,10 +155,7 @@ Va= -6.52 (signo negativo por la polaridad del voltaje)
 	4.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los 
 	resultados obtenidos prácticamente con los obtenidos analíticamente. 
 
-.
-	
-	Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, 
-	respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+*Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.*
 
 ![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
 
@@ -179,8 +176,8 @@ Va = V2 * (R3/R3+R12)
 
 Va= -6.52 (signo negativo por la polaridad del voltaje)
   
- 	Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, 
-	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+*Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.*
+
 Para calcular el voltaje cuando V2 = 0V primero se saca las resistencias equivalentes.
   
 ![image](https://user-images.githubusercontent.com/93834732/147179332-a22dbd70-44b2-40e4-b710-8182b29873da.png)
