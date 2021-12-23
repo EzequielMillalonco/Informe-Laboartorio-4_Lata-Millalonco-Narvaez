@@ -208,11 +208,13 @@ Haciendo la sumatoria de los 2 voltajes obtenidos podemos sacar el voltaje total
   
  <p align=center> Tabla 4.1 . Medición de voltaje aplicando superposición.
   
-  ![image](https://user-images.githubusercontent.com/93396250/147177850-2f85174b-a661-4271-86e8-34a176947108.png)
+![image](https://user-images.githubusercontent.com/93396250/147180679-8025ab21-c966-4619-88c1-738e2b271084.png)
+
 
  <p align=center> Tabla 4.2. Medición de corriente aplicando superposición.
   
-  ![image](https://user-images.githubusercontent.com/93396250/147177883-6add3681-fee0-4f06-9aa3-b7298893a1d9.png)
+![image](https://user-images.githubusercontent.com/93396250/147180708-1fadb239-5045-4623-988e-77ae1e4f6f8d.png)
+
 
 	4.5.5 Realice sus conclusiones.
 	
