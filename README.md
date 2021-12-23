@@ -135,8 +135,7 @@ Se reemplaza la funete de voltaje de 20 V por un cable (cable morado) para causa
 ![image](https://user-images.githubusercontent.com/93396250/147186478-f5b6981d-154b-45e0-acad-7b87102c2928.png)
 
 
-	4.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los 
-	resultados obtenidos prácticamente con los obtenidos analíticamente. 
+	4.4.5 Verifique el cumplimiento del Teorema de Superposición. 
 	
 *Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.*
 	
@@ -190,6 +189,8 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 	4.5.3 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
 
 	4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+	 
+	4.5.5 Compare los resultados obtenidos prácticamente con los obtenidos analíticamente
 	
   
  <p align=center> Tabla 4.1 . Medición de voltaje aplicando superposición.
