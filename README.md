@@ -196,21 +196,9 @@ Haciendo la sumatoria de los 2 voltajes obtenidos podemos sacar el voltaje total
 
 Por tanto mi Voltaje Total sera:
 
-	I_VA=12/1507.5
-
-	I_VA=7.96 mA
+![image](https://user-images.githubusercontent.com/93396250/147181626-fbf54ac0-725c-406b-b94d-205a150fbbab.png)
 	
-	V_A=I_VA*R_VA
-
-	V_A=7.96 mA*820
-
-	V_A2=6.527 V
-
-	V_T=V_A1-V_A2
-
-	V_T=7.479-6.527
 	
-	V_T=952 mA	
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 	4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
