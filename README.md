@@ -183,7 +183,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 **Ix cuando V1 = 0, va a ser 0 A debido a que V1 va a esatr en cortocircuito y esto va hacer que la intensidad sea de 0.**
 	
 	
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+## 5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 	4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
   
@@ -209,7 +209,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 ![image](https://user-images.githubusercontent.com/93396250/147186855-3339745c-2cb1-4ef5-94fd-600b76b44e8c.png)
 
 
-## 5. VIDEO
+## 6. VIDEO
 
         Link del video ¨Informe de laboratorio 4¨ en donde se realiza de forma experimental el circuito y se lo resuelve por el Teorema de superposición.
  
@@ -219,7 +219,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
 
 
  
-## 6. CONCLUSIONES
+## 7. CONCLUSIONES
 
    1. Se logró comprobar, mediante resultados prácticos en el laboratorio virtual, que en el teorema de superposición, una fuente de voltaje debe ser reemplazada por un circuito cerrado (cortocircuito) y una fuente de corriente debe sustituirse por un circuito abierto (resistencia tiende a infinito).
    
@@ -229,7 +229,7 @@ Luego se aplica un divisor de voltaje y se calcula el Va
         
  
   
-## 7. BIBLIOGRAFÍA
+## 8. BIBLIOGRAFÍA
 
 Alulema Darwin. Guías Segundo Parcial https://classroom.google.com/w/NDEyOTg4NDk2MDQx/t/all
   
