@@ -193,8 +193,24 @@ Haciendo la sumatoria de los 2 voltajes obtenidos podemos sacar el voltaje total
  ![image](https://user-images.githubusercontent.com/93834732/147179637-15024150-67e8-440b-9dcb-9a66e11b890b.png)
   
  Ix cuando V1 = 0, va a ser 0 A debido a que V1 va a esatr en cortocircuito y esto va hacer que la intensidad sea de 0.
-  
 
+Por tanto mi Voltaje Total sera:
+
+	I_VA=12/1507.5
+
+	I_VA=7.96 mA
+	
+	V_A=I_VA*R_VA
+
+	V_A=7.96 mA*820
+
+	V_A2=6.527 V
+
+	V_T=V_A1-V_A2
+
+	V_T=7.479-6.527
+	
+	V_T=952 mA	
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 	4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
