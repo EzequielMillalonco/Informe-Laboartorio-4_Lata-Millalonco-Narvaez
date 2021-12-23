@@ -101,17 +101,25 @@ Para este laboratorio necesitaremos los siguientes materiales:
 
 ## 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
-4.4.1 Arme el circuito que se muestra en la figura 4.1  
+	4.4.1 Arme el circuito que se muestra en la figura 4.1  
 
-4.4.2  Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+	4.4.2  Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, 
+	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. 
+	 
 
   
-4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+	4.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, 
+	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+  
+Se reemplaza la funete de voltaje de 12 V por un cable (cable morado) para causar un cortocircuito, entonces se mide el voltaje y la intensidad Ix 
+  
+![Thinker cad](https://user-images.githubusercontent.com/93396250/147178713-b3a96b66-400d-49ed-9399-542e9f59689f.JPG)
+  
+
   
   
-  
-  
-4.4.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+4.4.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, 
+	 respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
 ![Screenshot 2021-12-22 202621](https://user-images.githubusercontent.com/93826527/147173683-e3daad9f-4271-417d-8d65-f516267376fa.png)
 
@@ -155,11 +163,11 @@ Ix = IT * (R4/R4+R123) = (33.49 * 10^{-3}) * (470/(470+1507.5) = 7.95 (mA)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+	4.5.2 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
   
-4.5.3 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+	4.5.3 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
 
-4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
+	4.5.4 Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente
   
 Tabla 4.1 
   
